@@ -1,0 +1,10 @@
+= Version history =
+
+2014.05.01:
+
+- Initial release for Elgg 1.9
+
+2014.09.26:
+
+- Add: switch between mobile and full site view
+

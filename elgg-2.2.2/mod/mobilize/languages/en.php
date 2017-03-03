@@ -1,0 +1,39 @@
+<?php
+/**
+ *
+ * Mobilize English language file
+ * @author Elggzone - perjensen-online.dk
+ *
+ * @package mobilize
+ * 
+ */
+ 
+return array(
+
+	'admin:settings:mobilize'	=> 'Mobilize',
+	'mobilize:panel'			=> 'Plugin Options',
+
+	'mobilize:copyright' 	=> 'Copyright &copy; ',
+	'mobilize:elgg'      	=> 'Powered by Elgg',
+	'mobilize:fullversion'  => 'Show Full Version',
+	'mobilize:info:general'	=> 'General:',
+	'mobilize:info:message'	=> 'Add Front Page Welcome message:',
+	'mobilize:info:teaser'	=> 'Use text from?',
+	'mobilize:label:color' 	=> 'Header Color, enter Hex color code - #4690D6',
+	'mobilize:label:fp'		=> 'Disable friends picker javascript?',	
+	'mobilize:label:logo' 	=> 'Display your own logo',
+	'mobilize:label:teaser'	=> 'Enter text:',
+	'mobilize:label:theme'	=> 'Select mobile theme',
+	'mobilize:menu' 		=> 'Sub menu',
+	'mobilize:mobile'      	=> 'Show Mobile Version',
+	'mobilize:navigation' 	=> 'Navigation',
+	'mobilize:option:default'	=> 'Default',
+	'mobilize:option:file'	=> 'Language File',
+	'mobilize:option:field'	=> 'Text Field',
+	'mobilize:option:none'	=> 'None',
+	'mobilize:option:style'	=> 'Box Style',
+	'mobilize:pagetitle'	=> 'This is Mobilize',
+	'mobilize:teaser'		=> 'Welcome to our mobile friendly layout. Please login or signup!',
+	'mobilize:tooltip' 		=> 'Visit Elggzone',
+
+);

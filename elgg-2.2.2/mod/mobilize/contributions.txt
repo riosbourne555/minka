@@ -1,0 +1,7 @@
+﻿= Contributors =
+
+- Nick Scott - http://community.elgg.org/profile/nicholasmscott
+- Leonardo Alcantara
+- Patrik Bogdán - http://community.elgg.org/profile/patrikbogdan
+- RiverVanRain - https://github.com/RiverVanRain
+
