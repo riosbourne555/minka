@@ -198,8 +198,29 @@ if(elgg_is_active_plugin(event_calendar))
 <?php
 
 }
-
 //End of Event Calendar Plugin Metro Dashboard Menu
+
+//  **MINKA**  -> A PARTIR DE ACA ES LA MODIFICACIÓN DEL CODIGO PARA MINKA 
+
+// Funcion de REGISTRO DE DATOS DE RIEGO DEL PRODUCTOR
+
+if(elgg_is_active_plugin(plugin_riego))
+{
+
+?>
+
+<a class="box" href="<?php echo elgg_get_site_url(); ?>plugin_riego/view/<?php echo $user->username; ?>" style="background: #00a9ec;">
+<span>Riego</span>
+<img class="icon" src="<?php echo elgg_get_site_url(); ?>mod/super_dashboard/images/RiegoPNG.png" alt="" />
+
+</a>
+
+<?php
+
+}
+ // FIN - Funcion de REGISTRO DE DATOS DE RIEGO DEL PRODUCTOR
+ 
+// **MINKA** -> ACA TERMINA LA MODIFICACION PARA MINKA
 ?>
 
 

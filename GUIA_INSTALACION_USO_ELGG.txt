@@ -1,0 +1,3 @@
+
+Documentación en Español: http://docs.elgg.org/wiki/Documentation_in_Spanish
+Arquitectura de Elgg: http://www.genbetadev.com/frameworks/creando-nuestro-primer-plugin-en-elgg-i

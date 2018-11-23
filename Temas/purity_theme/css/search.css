@@ -1,0 +1,78 @@
+/**
+ * Purity Elgg 1.8 - 1.9 Theme
+ *
+ * @category   Theme
+ * @package    purity_theme
+ * @author     Shane Barron <admin@socia.us>
+ * @copyright  2008-2014 SocialApparatus
+ * @license    GNU General Public License (GPL) version 2
+ * @version    1.1
+ * @link       http://socia.us
+ */
+.elgg-page-header .elgg-search {
+    bottom: 57px;
+    height: 31px;
+    position: absolute;
+    right: 10px;
+    background:url(../graphics/search.png) no-repeat;
+    padding-right:60px;
+}
+.front_left {
+    width:420px;
+    margin-left:50px;
+}
+.front_right {
+    width:420px;
+    margin-right:50px;
+}
+.search-input {
+    border:none;
+}
+.elgg-page-header .elgg-search input[type=text] {
+    width: 166px;
+}
+.elgg-page-header .elgg-search input[type=submit] {
+    display: none;
+}
+.elgg-search input[type=text],
+.elgg-search input[type=text]:focus, 
+.elgg-search input[type=text]:active{
+    color: #333;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 4px 2px 26px;
+    background: transparent url(../graphics/magnifying_glass.png) no-repeat 3px 3px;
+    margin-top:6px;
+    margin-left:6px;
+    border:none;
+}
+
+.search-list li {
+    padding: 5px 0 0;
+}
+.search-heading-category {
+    margin-top: 20px;
+    color: #666666;
+}
+
+.search-highlight {
+    background-color: #bbdaf7;
+}
+.search-highlight-color1 {
+    background-color: #bbdaf7;
+}
+.search-highlight-color2 {
+    background-color: #A0FFFF;
+}
+.search-highlight-color3 {
+    background-color: #FDFFC3;
+}
+.search-highlight-color4 {
+    background-color: #ccc;
+}
+.search-highlight-color5 {
+    background-color: #4690d6;
+}
+.elgg-search input[type="text"] {
+    border:none;
+}

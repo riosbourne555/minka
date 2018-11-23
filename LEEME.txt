@@ -1,0 +1,12 @@
+Para crear un enlace simbólico:
+ln -s origen destino
+
+Para permitir que apache escriba en carpetas poner en All el AlowOverride de la carpeta /var/www/
+
+<Directory /var/www/>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+#       AllowOverride none
+        Require all granted
+</Directory>
+

@@ -108,15 +108,15 @@ RewriteEngine on
 # containing the path from your site root to elgg's root. e.g. If your site is
 # http://example.com/ and Elgg is in http://example.com/sites/elgg/, you might need
 # 
-#RewriteBase http://localhost/
-RewriteBase /var/www/Minka
+#RewriteBase http://minka.com
+#RewriteBase /var/www/Minka/index.php
 #
 # here, only without the # in front.
 #
 # If you're not running Elgg in a subdirectory on your site, but still getting lots
 # of 404 errors beyond the front page, you could instead try:
 #
-RewriteBase /
+#RewriteBase /
 
 
 # If your users receive the message "Sorry, logging in from a different domain is not permitted"

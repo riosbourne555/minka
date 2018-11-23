@@ -2,7 +2,8 @@
 
 if (elgg_is_logged_in())
 {
-forward ('activity');
+//forward ('activity');  // funcion original que al loguearte te lleva a activity, fue sustituida por la que sigue.
+forward ("super_dashboard/{$entity->guid}"); // esta funcion fue creada para que al logearse vaya al dashboard
 }
 ?>
 <!DOCTYPE html>
