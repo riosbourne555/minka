@@ -1,0 +1,7 @@
+Administrador de Minka:
+user: Adminka_cri05
+Pass: cri@826540
+
+Base de Datos:
+user: root
+Password: riosbourne
