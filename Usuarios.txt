@@ -2,6 +2,10 @@ Administrador de Minka:
 user: Adminka_cri05
 Pass: cri@826540
 
-Base de Datos:
+Permisos Administrador MySQL:
 user: root
+Password: riosbourne
+
+Base de Datos 'Minka'
+user: riosbourne
 Password: riosbourne
